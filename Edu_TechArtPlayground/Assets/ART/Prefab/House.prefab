@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1121319163280649648
 Transform:
@@ -123,6 +123,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: overhang (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: adfb1f1d46e38304b8e3fa47baf9c702, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -184,6 +188,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0cee5cb29a76be4181c999c64ac6883, type: 3}
       propertyPath: m_Name
       value: wall-door
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0cee5cb29a76be4181c999c64ac6883, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -247,6 +255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence-wood
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 291649f9078aa4a49923978057e4d573, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -308,6 +320,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 176bb3e5f85c2334187685623c2ffb35, type: 3}
       propertyPath: m_Name
       value: wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 176bb3e5f85c2334187685623c2ffb35, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -371,6 +387,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: roof-corner
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8b911d69fb5e8414980b33e071b21184, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -433,6 +453,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: structure-wall
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: af21530393b20ad41997e97a896bae03, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -494,6 +518,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 278cd6e79f9fc36419b574ea28aaac06, type: 3}
       propertyPath: m_Name
       value: roof
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 278cd6e79f9fc36419b574ea28aaac06, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -565,6 +593,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: roof (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 278cd6e79f9fc36419b574ea28aaac06, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -626,6 +658,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4da5cc2e51f90bb43adb814af735d729, type: 3}
       propertyPath: m_Name
       value: structure-pole (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4da5cc2e51f90bb43adb814af735d729, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -689,6 +725,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: roof-corner (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8b911d69fb5e8414980b33e071b21184, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -750,6 +790,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8b911d69fb5e8414980b33e071b21184, type: 3}
       propertyPath: m_Name
       value: roof-corner (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8b911d69fb5e8414980b33e071b21184, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -813,6 +857,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tower-paint
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3dd52db9a268ec54ab14c999a708bb4d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -874,6 +922,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 291649f9078aa4a49923978057e4d573, type: 3}
       propertyPath: m_Name
       value: fence-wood (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 291649f9078aa4a49923978057e4d573, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -937,6 +989,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: roof (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 278cd6e79f9fc36419b574ea28aaac06, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -998,6 +1054,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4da5cc2e51f90bb43adb814af735d729, type: 3}
       propertyPath: m_Name
       value: structure-pole (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4da5cc2e51f90bb43adb814af735d729, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1061,6 +1121,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence-wood (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 291649f9078aa4a49923978057e4d573, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1122,6 +1186,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4da5cc2e51f90bb43adb814af735d729, type: 3}
       propertyPath: m_Name
       value: structure-pole (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4da5cc2e51f90bb43adb814af735d729, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1185,6 +1253,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: roof (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 278cd6e79f9fc36419b574ea28aaac06, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1246,6 +1318,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 1fd52c78a8837104cb478108cdcd6a3d, type: 3}
       propertyPath: m_Name
       value: tower
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1fd52c78a8837104cb478108cdcd6a3d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1313,6 +1389,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: roof-edge
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: faacdb20b971b2e4088ce97988c9ca14, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1374,6 +1454,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f61e4c31bf9b8fd47b4a555a80879739, type: 3}
       propertyPath: m_Name
       value: pulley-crate
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f61e4c31bf9b8fd47b4a555a80879739, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1437,6 +1521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 176bb3e5f85c2334187685623c2ffb35, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1498,6 +1586,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0cee5cb29a76be4181c999c64ac6883, type: 3}
       propertyPath: m_Name
       value: wall-door (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0cee5cb29a76be4181c999c64ac6883, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1561,6 +1653,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall-fortified-paint-gate
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 730c9665267251547a17a6d215a9acd7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1622,6 +1718,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 278cd6e79f9fc36419b574ea28aaac06, type: 3}
       propertyPath: m_Name
       value: roof (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 278cd6e79f9fc36419b574ea28aaac06, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1685,6 +1785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pulley
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0ea933ac9dae4924d87e959c53ee21a3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1747,6 +1851,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 176bb3e5f85c2334187685623c2ffb35, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1808,6 +1916,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 176bb3e5f85c2334187685623c2ffb35, type: 3}
       propertyPath: m_Name
       value: wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 176bb3e5f85c2334187685623c2ffb35, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1875,6 +1987,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: roof-edge (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: faacdb20b971b2e4088ce97988c9ca14, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1936,6 +2052,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0ef13b588e9e5148af0277a870e8b59, type: 3}
       propertyPath: m_Name
       value: tower-paint-base
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0ef13b588e9e5148af0277a870e8b59, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1999,6 +2119,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tower-top
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9879033aee23c5d499f5aa7a65b38a5f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2060,6 +2184,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 291649f9078aa4a49923978057e4d573, type: 3}
       propertyPath: m_Name
       value: fence-wood (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 291649f9078aa4a49923978057e4d573, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2123,6 +2251,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tower-edge
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b079afe1b84e1ed4ea217830add49a66, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2184,6 +2316,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8b911d69fb5e8414980b33e071b21184, type: 3}
       propertyPath: m_Name
       value: roof-corner (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8b911d69fb5e8414980b33e071b21184, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2247,6 +2383,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: structure-pole
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4da5cc2e51f90bb43adb814af735d729, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2308,6 +2448,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 176bb3e5f85c2334187685623c2ffb35, type: 3}
       propertyPath: m_Name
       value: wall (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 176bb3e5f85c2334187685623c2ffb35, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2371,6 +2515,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall-door (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0cee5cb29a76be4181c999c64ac6883, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2432,6 +2580,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2a81dfca641c7bd4f9bc2aa654c044a2, type: 3}
       propertyPath: m_Name
       value: wall-fortified
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2a81dfca641c7bd4f9bc2aa654c044a2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2495,6 +2647,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: overhang-fence
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c8911cd76acbbee4b917401363bf5566, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2556,6 +2712,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6a2a2603ffbf2574f8c32bd6e1d5d4af, type: 3}
       propertyPath: m_Name
       value: stairs-corner
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6a2a2603ffbf2574f8c32bd6e1d5d4af, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
